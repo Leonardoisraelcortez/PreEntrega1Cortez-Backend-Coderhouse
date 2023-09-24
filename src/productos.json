@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Producto Actualizado",
+    "description": "Descripción actualizada",
+    "code": "ACTUALIZADO123",
+    "price": 39.99,
+    "status": true,
+    "stock": 60,
+    "category": "Electrónica",
+    "thumbnail": "https://example.com/updated-product-image.jpg",
+    "pid": 2
+  }
+]
